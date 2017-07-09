@@ -41,7 +41,7 @@ group :development, :test do
 end
 
 gem 'rest-client'
-gem 'simple_form'
+gem 'bootstrap-sass', '3.2.0.2'
 
 group :development do
   # Access an IRB console on exception pages or by using <%= console %> anywhere in the code.
